@@ -5,6 +5,7 @@
 // @description  在骨碌碌页面添加 Emoji / 颜文字悬浮球，支持最近使用和自定义添加
 // @author       Kototsuki
 // @match        *://www.gululu.world/*
+// @match        *://create.gululu.world/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @run-at       document-idle
