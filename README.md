@@ -1,4 +1,4 @@
-# gululu-emoji-helper# 骨碌碌 Emoji / 颜文字悬浮球
+# 骨碌碌 Emoji / 颜文字悬浮球
 
 为骨碌碌文字世界添加一个 Emoji / 颜文字悬浮球。
 
