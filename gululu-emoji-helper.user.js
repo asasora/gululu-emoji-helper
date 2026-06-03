@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         骨碌碌 Emoji / 颜文字悬浮球
-// @namespace    https://www.gululu.world/
+// @namespace    https://github.com/asasora/gululu-emoji-helper
 // @version      0.5.0
 // @description  在骨碌碌页面添加 Emoji / 颜文字悬浮球，支持最近使用和自定义添加
 // @author       Kototsuki
