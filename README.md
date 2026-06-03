@@ -18,7 +18,7 @@
 
 然后点击下面的链接安装：
 
-[点击安装脚本](https://raw.githubusercontent.com/你的GitHub用户名/gululu-emoji-helper/main/gululu-emoji-helper.user.js)
+[点击安装脚本](https://raw.githubusercontent.com/asasora/gululu-emoji-helper/main/gululu-emoji-helper.user.js)
 
 ## 使用方法
 
